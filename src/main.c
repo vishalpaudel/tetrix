@@ -14,6 +14,11 @@ int main()
         BeginDrawing();
             ClearBackground(RAYWHITE);
             DrawText("Hello World!", 190, 200, 20, LIGHTGRAY);
+            drawSingleSquare((Vector2){20, 20}, YELLOW);
+            drawSingleSquare((Vector2){60, 20}, GREEN);
+            drawSingleSquare((Vector2){100, 20}, RED);
+            drawSingleSquare((Vector2){140, 20}, ORANGE);
+            drawSingleSquare((Vector2){220, 120}, BLUE);
         EndDrawing();
     }
     CloseWindow();

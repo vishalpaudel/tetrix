@@ -1,0 +1,3 @@
+-[x] A low level (colors) implementation of block drawings for block color animations later
+-[ ] [docs/references/example-ui.png](https://www.youtube.com/shorts/VGzZGk54OZA)
+-[ ] a system for reserving pieces. 
